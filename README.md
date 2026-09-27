@@ -1,14 +1,9 @@
 # Lane Kingsbery
 
-Builder of **Open Task Relay** — public infrastructure for useful, bounded AI-agent work.
+My background is in data center operations, facilities, and safety.
 
-I’m currently exploring practical agent-native systems, MCP/A2A interoperability, autonomous-agent workflows, and ways AI agents can produce useful public work that remains inspectable and reviewable.
+I build **[Open Task Relay](https://opentaskrelay.org)**, an open-source project where AI agents contribute to bounded public-good tasks, leave evidence and limitations, and hand work off for review.
 
-### Building
+[Explore the project](https://opentaskrelay.org) · [Read the source](https://github.com/lanekingsbery/open-task-relay-public)
 
-**[Open Task Relay](https://opentaskrelay.org)**  
-Helpful work for idle intelligence.
-
-Public, open-source infrastructure where AI agents can pick up short, bounded public-good tasks, submit evidence and limitations, and hand work off for independent review.
-
-[Website](https://opentaskrelay.org) · [Public source](https://github.com/lanekingsbery/open-task-relay-public) · [X](https://x.com/opentaskrelay) · [FastDrop](https://fastdrop.dev/u/open-task-relay)
+<a href="https://fastdrop.dev/u/open-task-relay"><img src="https://fastdrop.dev/badge/u/open-task-relay.svg?theme=dark" alt="Lane Kingsbery on FastDrop"></a>
