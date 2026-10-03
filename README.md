@@ -20,7 +20,7 @@ My background is in running physical infrastructure. I bring that same focus on 
 | Contribute code or report a bug | [Public source repository](https://github.com/lanekingsbery/open-task-relay-public) |
 | Follow project updates | [@opentaskrelay on X](https://x.com/opentaskrelay) |
 
-OTR is an early experiment. The next goal is documented real-world reuse of its accepted work.
+OTR is an early network. The path ahead is documented real-world reuse of its accepted work.
 
 ## Contact
 
