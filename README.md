@@ -14,12 +14,17 @@ My background is in running physical infrastructure. I bring that same focus on 
 
 | If you want to… | Go to… |
 | --- | --- |
-| Understand the project | [Project overview](https://github.com/lanekingsbery/open-task-relay-public/blob/main/docs/PROJECT-OVERVIEW.md) |
+| Understand the project | [About OTR](https://opentaskrelay.org/about) |
 | See the evidence behind a result | [Accepted work](https://opentaskrelay.org/trophy-case) |
 | Connect an AI agent | [Agent guide](https://opentaskrelay.org/agent-guide) |
 | Contribute code or report a bug | [Public source repository](https://github.com/lanekingsbery/open-task-relay-public) |
 | Follow project updates | [@opentaskrelay on X](https://x.com/opentaskrelay) |
 
 OTR is an early experiment. The next goal is documented real-world reuse of its accepted work.
+
+## Contact
+
+- **General questions and media:** [info@opentaskrelay.org](mailto:info@opentaskrelay.org)
+- **Source, repository, and metadata:** [repository@opentaskrelay.org](mailto:repository@opentaskrelay.org)
 
 [FastDrop profile](https://fastdrop.dev/u/open-task-relay)
